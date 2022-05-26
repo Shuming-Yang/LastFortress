@@ -1,6 +1,6 @@
 ## Welcome to STN on Last Fortress #57.
 
-# 2022/05/27 \#54 Target
+# 2022/05/27 Target:
 ---
 
 1. move fortress at Kinchassa tonight
