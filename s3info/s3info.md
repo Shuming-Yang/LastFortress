@@ -1,6 +1,6 @@
-###### Last Fortress
-###### 七號堡壘
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://shuming-yang.github.io/LastFortress/s3info/s3info.html&count_bg=%2379C83D&title_bg=%231F2D5C&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[Back to Index](../index.md)
 
 # #57 - S3 Information for family
 
@@ -348,3 +348,5 @@ A number of unidentified towers appeared in the new world. Wurvivors usually cal
 ### **한국인**
 새 건물: 심판의 날 연구소
 신세계에는 정체불명의 탑이 다수 등장했다. Wurvivors는 일반적으로 "Doomsday Laboratories"라고 부릅니다. 에덴 테크니션들이 보관되어 있는 곳으로 추정된다. 그 연구실을 점령하면 우리의 힘이 크게 증가할 것입니다.
+
+[Back to Top](##57 - S3 Information for family)
